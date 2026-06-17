@@ -1,2 +1,2 @@
 # python
-These are some simple python projects i solved
+Beginner Python projects built while learning programming fundamentals and object-oriented programming.
